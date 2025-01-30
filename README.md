@@ -19,7 +19,7 @@ Test results (averaged over 1000 episodes):
 |[Greedy][doc-greedy]|![][demo-greedy]|60.15|904.56|
 |[DQN][doc-dqn]<br>(experimental)|![][demo-dqn]|24.44|131.69|
 
-## Installation
+## Installation Steps
 
 Requirements: Python 3.6+ with [Tkinter][doc-tkinter] installed.
 
